@@ -1,0 +1,1 @@
+const Rooms = () => <div>Rooms Page</div>; export default Rooms;
